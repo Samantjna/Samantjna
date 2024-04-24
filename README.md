@@ -6,7 +6,7 @@
 
 ```javascript
 Junior_Data_Scientist = {
-    code: ["Python", "CSS", "SQL"],
+    code: ["Python", "HTML", "CSS", "SQL"],
     skills: ["Data Analysis", "Machine Learning"],
     languages: ["English", "Lithuanian"],
                        
